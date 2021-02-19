@@ -1,6 +1,5 @@
 # Eye-Tracker-using-Neural-Network
 
-Model Summary
 Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
