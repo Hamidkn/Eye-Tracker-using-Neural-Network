@@ -1,4 +1,5 @@
 # Eye-Tracker-using-Neural-Network
+
 Model Summary
 Model: "sequential"
 _________________________________________________________________
@@ -35,7 +36,12 @@ Trainable params: 257,026
 Non-trainable params: 0
 _________________________________________________________________
 
+
+
+
 Plots: 
+
 ![alt text](https://github.com/Hamidkn/Eye-Tracker-using-Neural-Network/blob/master/fig_accuarcy.png)
+
 
 ![alt text](https://github.com/Hamidkn/Eye-Tracker-using-Neural-Network/blob/master/fig_loss.png)
